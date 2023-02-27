@@ -1,5 +1,5 @@
 # The Leeds Parallel Corpus of Arabic Countries' Constitutions 
-is a funded project by the University of Leeds.  It is of a collection of specialised parallel and monolingual legal corpora.
+The project is a funded  by the University of Leeds.  It is of a collection of specialised parallel and monolingual legal corpora.
 
 This repository includes:
 
