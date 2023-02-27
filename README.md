@@ -16,4 +16,3 @@ These corpora contain two separate versions of constitutions, first; the folder 
 
 The Parallel Corpus of Preambles of Arabic Countries' Constitutions (PCPACC)
 This version includes all available preambles of the Arab countries’ constitutions (32.660 words), Arabic (12,360) and English (20,300).
-![image](https://user-images.githubusercontent.com/126424913/221616637-8e3a76b2-3552-4342-b5ce-99c122c91d5b.png)
