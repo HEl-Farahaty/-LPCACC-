@@ -13,3 +13,7 @@ The LPCCAC includes sub-corpora for each country but it excludes Comoros and Som
 Monolingual Corpora of Arabic and English Constitutions (MCAEC)
 
 These corpora contain two separate versions of constitutions, first; the folder of Arabic constitutions which has 73 in total and (788,477 words), and second is the folder of  English constitutions which has 70 files in total and (343,582 words).   
+
+The Parallel Corpus of Preambles of Arabic Countries' Constitutions (PCPACC)
+This version includes all available preambles of the Arab countries’ constitutions (32.660 words), Arabic (12,360) and English (20,300).
+![image](https://user-images.githubusercontent.com/126424913/221616637-8e3a76b2-3552-4342-b5ce-99c122c91d5b.png)
