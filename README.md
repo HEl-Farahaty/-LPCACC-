@@ -1,6 +1,30 @@
 # The Leeds Parallel Corpus of Arabic Countries' Constitutions 
 The project is a funded  by the University of Leeds.  It is of a collection of specialised parallel and monolingual legal corpora.
 
+Full text available on [SpringerLink](https://link.springer.com/article/10.1007/s41701-023-00138-x).
+
+---
+
+## Citation
+
+If you use this repository or corpus in your research, please cite the following publication:
+
+```bibtex
+@article{El-Farahaty2023,
+  author    = {Hanem El-Farahaty and Nagwa Khallaf and Abdullah Alonayzan},
+  title     = {Building the Leeds Monolingual and Parallel Legal Corpora of Arabic and English Countries’ Constitutions: Methods, Challenges and Solutions},
+  journal   = {Corpus Pragmatics},
+  year      = {2023},
+  volume    = {7},
+  pages     = {103--119},
+  doi       = {10.1007/s41701-023-00138-x},
+  url       = {https://doi.org/10.1007/s41701-023-00138-x}
+}
+```
+
+
+
+---
 This repository includes:
 
 ## 1- The Leeds Parallel Corpus of Arabic Countries' Constitutions (LPCACC) 
@@ -14,7 +38,6 @@ This version includes all available preambles of the Arab countries’ constitut
 ## 3-Monolingual Corpora of Arabic and English Constitutions (MCAEC)
 
 These corpora consist of two separate collections of constitutions. The first is the folder containing Arabic constitutions, with a total of 73 documents and 788,477 words. The second is the folder containing English constitutions, with 70 documents and 343,582 words.
-
 
 
 
