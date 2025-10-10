@@ -9,9 +9,12 @@ Full text available on [SpringerLink](https://link.springer.com/article/10.1007/
 
 If you use this repository or corpus in your research, please cite the following publication:
 
+# Reference
+El-Farahaty, H., Khallaf, N., & Alonayzan, A. (2023). Building the Leeds Monolingual and Parallel Legal Corpora of Arabic and English Countries’ Constitutions: Methods, Challenges and Solutions. Corpus Pragmatics, 7, 103–119. https://doi.org/10.1007/s41701-023-00138-x
+
 ```bibtex
 @article{El-Farahaty2023,
-  author    = {Hanem El-Farahaty and Nagwa Khallaf and Abdullah Alonayzan},
+  author    = {Hanem El-Farahaty and Nouran Khallaf and Amany Alonayzan},
   title     = {Building the Leeds Monolingual and Parallel Legal Corpora of Arabic and English Countries’ Constitutions: Methods, Challenges and Solutions},
   journal   = {Corpus Pragmatics},
   year      = {2023},
@@ -21,8 +24,6 @@ If you use this repository or corpus in your research, please cite the following
   url       = {https://doi.org/10.1007/s41701-023-00138-x}
 }
 ```
-
-
 
 ---
 This repository includes:
